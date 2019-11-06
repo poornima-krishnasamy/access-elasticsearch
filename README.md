@@ -1,0 +1,1 @@
+Repo for testing AssumeRole from the IAM role created by ElasticSearch Module and be able to send data to elasticSearch using AssumeRole.
